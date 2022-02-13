@@ -9,25 +9,24 @@ built dashboards to provide insights that can help in making data driven decisio
 company. The objective of this project is to analyse the Sales and Revenue trend. This project will help in identifying 
 major markets in terms of Sales and Revenue.
       
-  
-## Tools Used
-
-![ToolsUsed](https://user-images.githubusercontent.com/96620780/150988751-52607c01-698b-4827-8d74-fb4c829d7e84.png)
-
-      
-     
+       
 ## Dashboards
 
 > In this project we have created two dashboards:
 - **Sales** : This will give insights related to Sales of various products in year 2019
 
 
-
-![Sales Dashboard](https://user-images.githubusercontent.com/96620780/150988656-7d512806-fa3a-4d7a-90a1-69fe44a1a037.png)
+![SALES_Dashboard](https://user-images.githubusercontent.com/61832699/153749679-24d084fc-e2d9-477d-90e3-ba06f16c374d.JPG)
 
 
 
 - **Revenue** : This will give insights related to Revenue generated from Sales in year 2019      
    
-![Revenue Dashboard](https://user-images.githubusercontent.com/96620780/150988707-4ed0f0aa-2add-41a9-8e41-42ce62dd8361.png)
+![revenue_dashboard](https://user-images.githubusercontent.com/61832699/153749673-f72e321e-9a66-476c-ae78-981123a9d955.JPG)
 
+
+## Tools Used
+
+![ToolsUsed](https://user-images.githubusercontent.com/96620780/150988751-52607c01-698b-4827-8d74-fb4c829d7e84.png)
+
+      
